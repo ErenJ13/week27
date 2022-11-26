@@ -1,0 +1,47 @@
+.card{
+    width: 100%;
+    height: 100%;
+}
+
+.cardName {
+    background-color: rgb(38, 146, 182);
+    color: rgb(236, 239, 240);
+    font-size: 13px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+}
+
+.cardPrice {
+
+    color: rgb(236, 239, 240);
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 18px;
+    border: 1px solid white;
+}
+
+.rub,
+.mes,
+.cardMbit,
+.cardText {
+    font-size: 9px;
+}
+
+.cardMbit {
+    background-color: rgb(233, 238, 240);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid white;
+}
+
+.cardText {
+    background-color: rgb(217, 226, 230);
+    padding: 10px;
+    line-height: 17px;
+    border: 1px solid white;
+}
+
+.checked {
+    border: 4px solid rgb(255, 255, 255);
+}
